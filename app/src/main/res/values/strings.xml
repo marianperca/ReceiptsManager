@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReceiptManager</string>
+    <string name="hint_value">Value</string>
+    <string name="btn_add">Add receipt</string>
+    <string name="hint_store">Store</string>
+    <string name="hint_date">Date</string>
+    <string name="title_main">Receipts Manager</string>
+    <string name="title_add_receipt">Add receipt</string>
+    <string name="option_delete">Delete</string>
+</resources>
